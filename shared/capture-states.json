@@ -1,0 +1,1 @@
+{"states":["No Camera","Camera Ready","Capture Requested","Waiting for Image","Photo Received","Reviewing","Approved","Retake Requested","Capture Error"],"timeout_seconds":300,"tether_assignment":"explicit operator selection; never automatically assign a delayed file"}
